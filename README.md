@@ -5,6 +5,7 @@ Following are the columns for the dataset
 
 
 String variable, Latitude
+
 •	lng: String variable, Longitude
 •	desc: String variable, Description of the Emergency Call
 •	zip: String variable, Zipcode
